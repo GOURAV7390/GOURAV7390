@@ -1,6 +1,4 @@
 # 💫 About Me:
-👨‍💻 About Me <br>🔭 👨‍💻 About Me
-
 Full-Stack Developer focused on building scalable web applications, secure backend systems, and cloud-based solutions.
 
 🚀 Currently working on: MERN, FastAPI, Python & AWS projects
