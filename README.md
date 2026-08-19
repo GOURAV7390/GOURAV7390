@@ -1,5 +1,16 @@
 # 💫 About Me:
-👨‍💻 About Me <br>🔭 I’m currently working on<br><br>Building full-stack web applications using MERN stack<br><br>Developing secure backend systems with FastAPI & Python<br><br>Improving cloud-based deployments using AWS<br><br>Creating real-world projects to strengthen placement readiness<br><br>👯 I’m looking to collaborate on<br><br>Open-source projects (Web Dev / Backend / Cloud)<br><br>Full-stack applications (React, Node.js, APIs)<br><br>Python-based projects (Automation, APIs, Data)<br><br>Startup or hackathon ideas<br><br>🤝 I’m looking for help with<br><br>System design basics for interviews<br><br>Scalable backend architecture<br><br>Advanced AWS & DevOps concepts<br><br>DSA problem-solving strategies<br><br>🌱 I’m currently learning<br><br>MERN Stack (MongoDB, Express, React, Node.js)<br><br>Cloud Computing (AWS, EC2, S3, IAM)<br><br>Software Testing & API Testing<br><br>Data Structures & Algorithms<br><br>💬 Ask me about<br><br>Web Development (HTML, CSS, JavaScript, React)<br><br>Backend Development (Python, FastAPI, PHP, MySQL)<br><br>Cloud Fundamentals (AWS basics)<br><br>Project building & resume optimization for placementsFun fact<br><br>I love turning complex problems into simple solutions<br><br>I build projects not just to learn — but to ship and scale 🚀
+👨‍💻 About Me <br>🔭 👨‍💻 About Me
+
+Full-Stack Developer focused on building scalable web applications, secure backend systems, and cloud-based solutions.
+
+🚀 Currently working on: MERN, FastAPI, Python & AWS projects
+🤝 Open to collaborate: Open-source, startups, hackathons & real-world projects
+🌱 Learning: System Design, DSA, AWS & DevOps
+💬 Ask me about: Web Development, Backend, APIs & Cloud
+
+Let’s build, learn, and grow together with us. 🚀
+
+Fun fact: I turn complex problems into simple, scalable solutions.
 
 
 ## 🌐 Socials:
